@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+#include <opencv2/opencv.hpp>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>include opencv2</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++</scope>
+</snippet>
